@@ -14,7 +14,7 @@
   </head>
   <body>
     <nav class="navbar navbar-expand-lg navbar-light bg-light row">
-      <a class="navbar-brand" href="#">APIPrueba</a>
+      <a class="navbar-brand" href="#">Chexter Store</a>
       <a class="navbar-brand ml-auto" href="#">
         <button onclick="logout()" class="btn btn-info">Cerrar sesión</button>
       </a>
