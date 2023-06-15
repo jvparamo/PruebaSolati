@@ -12,7 +12,7 @@
     <div class="container vh-100 d-flex align-items-center justify-content-center">
         <form id="formLogin" method="post">
             <div class="card bg-light">
-                <h5 class="card-title text-center mt-3 bg-light">ApiPrueba</h5>
+                <h5 class="card-title text-center mt-3 bg-light">Chexter Store</h5>
                 <div class="card-body bg-light">
                     <div class="form-outline mb-2">
                         <label class="form-label" for="username">Usuario</label>
